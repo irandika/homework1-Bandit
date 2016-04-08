@@ -1,6 +1,6 @@
 # homework1-Bandit
 
-Bandit is a wargame which can be used to learn about linux. Following completed levels shows how the game is execute.
+Bandit is a wargame which can be used to learn about linux. Following completed levels shows how the game can be play.
 
 level 0
 
