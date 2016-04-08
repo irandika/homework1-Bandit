@@ -37,6 +37,8 @@ Previous attempt that work well :
 
 level 6
 
+![screenshot from 2016-04-08 22-11-34](https://cloud.githubusercontent.com/assets/9804892/14391824/e200d068-fddb-11e5-9aa9-16e0ceff7e82.png)
+
 level 7
 
 level 8
