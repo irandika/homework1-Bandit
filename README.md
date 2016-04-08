@@ -57,6 +57,9 @@ level 10
 
 ![screenshot from 2016-04-08 22-21-28](https://cloud.githubusercontent.com/assets/9804892/14391828/e2116dec-fddb-11e5-8e58-91378a63031b.png)
 
+Issues:
+  Accidently try to log in to the level 12  by using the password of level 11 after finish the level 10. It was a typing error made by me by typing the bandit12 instead of bandit 11.
+
 level 11
 
 ![screenshot from 2016-04-08 22-29-56](https://cloud.githubusercontent.com/assets/9804892/14391830/e231b5ac-fddb-11e5-8d8a-da670d500169.png)
