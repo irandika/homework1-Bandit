@@ -29,6 +29,12 @@ level 5
 
 ![screenshot from 2016-04-08 22-02-28](https://cloud.githubusercontent.com/assets/9804892/14391823/e1fd1158-fddb-11e5-94ea-c7861a7faacf.png)
 
+Issues:
+  Played the game several times to findout the password. When play the game in a previous attempt a command worked well in that attempt. But not in this and have to attempt for another solution.
+  
+Previous attempt that work well :
+
+
 level 6
 
 level 7
