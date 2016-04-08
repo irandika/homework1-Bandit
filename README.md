@@ -4,21 +4,24 @@ Bandit is a wargame which can be used to learn about linux. Following completed 
 
 level 0
 
+![screenshot from 2016-04-08 21-29-26](https://cloud.githubusercontent.com/assets/9804892/14391687/2ed5ae32-fddb-11e5-814a-75ee773bbeb3.png)
 
+Issues:
+  When try to log in to the bandit using wifi, connection was not established. Later on found that ssh is blocked. Therefore dongal has to be use for the establishment of internet connection.
 
 level 1
 
-![level 1](https://cloud.githubusercontent.com/assets/9804892/14381295/465865dc-fd3a-11e5-814a-8e33d1a47fad.png)
+
 
 level 2
 
 level 3
 
-![level 3](https://cloud.githubusercontent.com/assets/9804892/14381329/7d52b998-fd3a-11e5-865e-a5c6e2669254.png)
+
 
 level 4
 
-![level 4](https://cloud.githubusercontent.com/assets/9804892/14381331/7d54ec40-fd3a-11e5-8a7d-94ec714ee801.png)
+
 
 level 5
 
@@ -28,19 +31,19 @@ level 7
 
 level 8
 
-![level 8](https://cloud.githubusercontent.com/assets/9804892/14381333/7d593566-fd3a-11e5-859e-68cb7613d8c3.png)
+
 
 level 9
 
-![level 9](https://cloud.githubusercontent.com/assets/9804892/14381463/8de9dbe6-fd3b-11e5-8f0c-ae135e68dd1f.png)
+
 
 level 10
 
-![level 10](https://cloud.githubusercontent.com/assets/9804892/14381464/8ded33ea-fd3b-11e5-8648-42f71423a7e6.png)
+
 
 level 11
 
-![level 11](https://cloud.githubusercontent.com/assets/9804892/14381465/8df672e8-fd3b-11e5-85c3-e0e606e935b0.png)
+
 
 
 
