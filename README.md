@@ -59,10 +59,16 @@ level 10
 
 Issues:
   Accidently try to log in to the level 12  by using the password of level 11 after finish the level 10. It was a typing error made by me by typing the bandit12 instead of bandit 11.
+  
+![screenshot from 2016-04-08 23-10-49](https://cloud.githubusercontent.com/assets/9804892/14392628/e8c8ec4c-fddf-11e5-9140-9192567093da.png)
 
 level 11
 
 ![screenshot from 2016-04-08 22-29-56](https://cloud.githubusercontent.com/assets/9804892/14391830/e231b5ac-fddb-11e5-8d8a-da670d500169.png)
+
+Conclusion
+
+Playing Bandit was help to learnt commands in linux such as cat,find and etc and learnt where and when to apply those commands. Rest of the levels will be upload as soon as finish those levels. 
 
 
 
